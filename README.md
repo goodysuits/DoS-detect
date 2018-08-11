@@ -1,3 +1,3 @@
-# DoS-detect
+# go-projects
 
-This project includes the ability to detect and block DoS Attack activity.
+go projects

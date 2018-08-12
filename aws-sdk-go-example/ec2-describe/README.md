@@ -1,3 +1,3 @@
-# ec2-example
+# ec2-describe
 
-aws-sdk-go - ec2 examples
+aws-sdk-go - ec2 describe
